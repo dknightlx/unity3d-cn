@@ -14,15 +14,15 @@ Unity的每次发布，其对应的版本的完整文档，通常可以在[docs.
 
 ### 文档更新
 
-We republish the online documentation for the current full release version of Unity regularly with corrections and missing content regularly. \(You can see the publish version of the documentation at the bottom of every page.\)
+我们定期重新发布Unity当前完整版本的在线文档，并定期更正和补全缺少内容。 （您可以在每个页面的底部看到文档的发布版本。）
 
-If there is a current Unity beta release, we also update the current public beta release documentation with corrections, missing content, and feature updates regularly.
+如果目前有Unity的测试版，我们也会定期更新当前公共测试版文档，其中包含更正错误，补全缺少的内容，以及功能的更新。
 
-However, note that we do not update and re-publish:
+不过，请注意我们不会更新和重新发布这些：
 
-* the installer \(offline\) documentation.
+* 安装离线版文档
 
-* legacy documentation, that is; documentation for Unity versions which are no longer a current beta or full release of Unity.
+* 不再是Unity当前测试版或者完整版的文档
 
 如果你需要最新发布的离线文档，你可以单独下载它。详情查看[离线文档](/chapter1/li-xian-wen-dang.md)
 
@@ -36,7 +36,7 @@ However, note that we do not update and re-publish:
 
 ### 历史文档
 
-Documentation for Unity versions which are no longer the current full release or beta release version of Unity.
+不再是Unity当前测试版或者完整版的文档。
 
 _**这些文档已经不再维护了，我们不再纠正，更新或者重新发布。然而长期支持的版本可能会再被支持很长一段时间。**_
 
