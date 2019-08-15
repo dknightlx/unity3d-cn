@@ -1,4 +1,4 @@
-# Documentation editorial review
+# 文档编辑审查
 
 Some Unity User Manual pages contain a status referring to “editorial review”.
 

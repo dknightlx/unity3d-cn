@@ -5,7 +5,7 @@
   * [文档版本](chapter1/wen-dang-ban-ben.md)
   * [切换文档版本](chapter1/qie-huan-wen-dang-ban-ben.md)
   * [离线文档](chapter1/li-xian-wen-dang.md)
-  * [文档编辑评论](chapter1/wen-dang-bian-ji-ping-lun.md)
+  * [文档编辑审查](chapter1/wen-dang-bian-ji-ping-lun.md)
 * [包文档](bao-wen-dang.md)
 * [使用Unity](shi-yong-unity.md)
   * [安装Unity](shi-yong-unity/an-zhuang-unity.md)
