@@ -1,4 +1,6 @@
-# Table of contents
+使用Unity编辑器创建2D和3D的游戏，应用。在unity3d.com下载Unity编辑器。
 
-* [Initial page](README.md)
+这本Unity用户手册帮助你了解如何使用Unity编辑器及其相关的服务。你可以从头到尾通读一遍也可以当做平时的参考。
+
+如果你是第一次使用Unity，留意一下Unity的介绍文档，并且看一下Unity教程
 
