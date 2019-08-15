@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [用户手册 2019.2](chapter1.md)
   * [文档版本](chapter1/wen-dang-ban-ben.md)
   * [切换文档版本](chapter1/qie-huan-wen-dang-ban-ben.md)
